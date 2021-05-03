@@ -6,7 +6,7 @@
 [Обработка команд](https://github.com/InfoZebra/library/blob/main/telegram%20bot%20node%20js/command-response.md)  
 [Отключить предпросмотр отправленной ссылки](https://github.com/InfoZebra/library/blob/main/telegram%20bot%20node%20js/disable-link-preview.md)  
 [Простая клавиатура, прилепленная к нижней части экрана](https://github.com/InfoZebra/library/blob/main/telegram%20bot%20node%20js/simple-keyboard.md)  
-[Инлайн-клавиатура](https://github.com/InfoZebra/library/blob/main/telegram%20bot%20node%20js/inline-keyboard.md)  
+[Инлайн-клавиатура, под отправленным ботом сообщением](https://github.com/InfoZebra/library/blob/main/telegram%20bot%20node%20js/inline-keyboard.md)  
 []()  
 []()  
 []()  
