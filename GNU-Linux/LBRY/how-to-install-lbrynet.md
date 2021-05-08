@@ -29,8 +29,10 @@ nano ~/.bashrc
 
 ```
 alias lbn='/var/www/lbrynet'
+alias lbrynet='/var/www/lbrynet'
 ```
 
+###### Теперь вы можете писать как lbn, так и lbrynet. 
 ###### Чтоб сохранить и закрыть файл жмем Ctrl+S и Ctrl+X
 
 4. Перезагружаем машину и переподключаемся к серверу
